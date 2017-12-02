@@ -15,7 +15,7 @@ In addition data can be updated on a fixed frequency, by executing the Makefile 
 7. Schedule the shell file as a cron job
 
 ## 1. Download the repo
-`git clone https://github.com/MalawiGeospatialTools/osm-extract.git`
+`git clone https://github.com/okgreece/osm-extract.git`
 
 ## 2. Install the dependencies
 We assume that GeoNode is already installed on your machine.
